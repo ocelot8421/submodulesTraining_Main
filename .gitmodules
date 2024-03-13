@@ -1,0 +1,3 @@
+[submodule "submodulesTraining"]
+	path = submodulesTraining
+	url = https://github.com/ocelot8421/submodulesTraining.git
