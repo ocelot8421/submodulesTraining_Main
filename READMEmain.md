@@ -8,3 +8,7 @@ Before git add submodule
 
 add submodules:
 git submodules add <url>
+
+
+modify submodule path:
+git config submodule.DbConnector.url PRIVATE_URL
